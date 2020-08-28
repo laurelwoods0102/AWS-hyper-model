@@ -1,0 +1,11 @@
+{
+    "PAST_HISTORY": 16,
+    "FUTURE_TARGET": 8,
+    "BATCH_SIZE": 1024,
+    "ACTIVATION": "softmax",
+    "LOSS_FUNCTION": "sparse_categorical_crossentropy",
+    "VAL_SPLIT": 0.2,
+    "METRIC_ACCURACY": "accuracy",
+    "OPTIMIZER": "adam",
+    "VOCAB_SIZE": 14882
+}
