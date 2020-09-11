@@ -1,0 +1,7 @@
+{
+    "PAST_HISTORY": 16,
+    "FUTURE_TARGET": 8,
+    "BATCH_SIZE": 1024,
+    "BUFFER_SIZE": 200000,
+    "EPOCHS": 500
+}

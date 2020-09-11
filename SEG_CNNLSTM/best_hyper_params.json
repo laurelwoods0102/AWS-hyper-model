@@ -1,0 +1,14 @@
+{
+    "conv1d_filters": 32,
+    "conv1d_kernel_size": 5,
+    "conv1d_dropout": 0.45000000000000007,
+    "layer_1_units": 232,
+    "layer_1_dropout": 0.20000000000000004,
+    "layer_2_units": 168,
+    "layer_2_dropout": 0.40000000000000013,
+    "learning_rate": 0.0001,
+    "tuner/epochs": 2,
+    "tuner/initial_epoch": 0,
+    "tuner/bracket": 6,
+    "tuner/round": 0
+}

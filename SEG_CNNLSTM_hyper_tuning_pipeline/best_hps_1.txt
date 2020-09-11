@@ -1,0 +1,18 @@
+Trial complete
+Trial summary
+|-Trial ID: 613d8029fdd725ab9e44b99eb272fb12
+|-Score: 0.5269733667373657
+|-Best step: 0
+Hyperparameters:
+|-conv1d_dropout: 0.3500000000000001
+|-conv1d_filters: 112
+|-conv1d_kernel_size: 3
+|-layer_1_dropout: 0.25000000000000006
+|-layer_1_units: 96
+|-layer_2_dropout: 0.30000000000000004
+|-layer_2_units: 208
+|-learning_rate: 0.001
+|-tuner/bracket: 0
+|-tuner/epochs: 250
+|-tuner/initial_epoch: 0
+|-tuner/round: 0
